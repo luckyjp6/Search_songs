@@ -1,0 +1,10 @@
+Flask
+gunicorn
+urllib.request 
+urllib.parse 
+urllib.error
+json
+re
+flask_bootstrap
+bs4
+requests
